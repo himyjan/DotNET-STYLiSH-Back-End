@@ -1,0 +1,6 @@
+@DotNET_STYLiSH_Back_End_HostAddress = http://localhost:5076
+
+GET {{DotNET_STYLiSH_Back_End_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
